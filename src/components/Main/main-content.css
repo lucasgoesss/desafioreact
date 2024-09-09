@@ -1,0 +1,14 @@
+.add-movie-btn {
+    background-color: #ff3366;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.movie-list {
+    display: flex;
+    flex-direction: column;
+}

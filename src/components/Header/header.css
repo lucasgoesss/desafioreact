@@ -1,0 +1,27 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.search-bar {
+    flex-grow: 1;
+    margin: 0 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
+
+.user-info span {
+    margin-right: 10px;
+}
+
+.logout-btn {
+    background-color: #ff3366;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}

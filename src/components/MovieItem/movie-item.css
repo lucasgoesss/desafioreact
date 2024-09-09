@@ -1,0 +1,21 @@
+.movie-item {
+    background-color: #2a2a2e;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.rating {
+    color: #ffcc33;
+}
+
+.tags {
+    margin-top: 10px;
+}
+
+.tag {
+    background-color: #3b3b44;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-right: 5px;
+}
